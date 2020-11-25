@@ -42,7 +42,7 @@ Or copy and paste one of these URLs:
         http://localhost:8888/?token=<TOKEN_ID>
 ```
 10. Copy the URL.
-11. Open a New Notebook on [Google Colab](colab.research.google.com).
+11. Open a New Notebook on [Google Colab](https://www.colab.research.google.com).
 12. Click on the Drop Down Arrow to the right of the word "Connect" on the Top Right of the Page.
 13. Click "Connect to a Local Runtime".
 14. Paste the URL in the text box and click "Connect".
