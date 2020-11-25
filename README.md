@@ -36,6 +36,16 @@ jupyter notebook \
   --port=8888 \
   --NotebookApp.port_retries=0
 ```
+9. Look for output that looks like:
+```
+Or copy and paste one of these URLs:
+        http://localhost:8888/?token=73c6114f66c8df781049de84addd97b1455bb9f6d6bc2d04
+```
+10. Copy the URL.
+11. Open a New Notebook on [Google Colab](colab.research.google.com).
+12. Click on the Drop Down Arrow to the right of the word "Connect" on the Top Right of the Page.
+13. Click "Connect to a Local Runtime".
+14. Paste the URL in the text box and click "Connect".
 
 
 
