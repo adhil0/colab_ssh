@@ -20,7 +20,7 @@ sudo apt install python3-venv python3-pip
 ```
 pip3 install notebook
 ```
-6. Install and enable Enable the http extension:
+6. Install the http extension:
 ```
 pip3 install jupyter_http_over_ws
 ```
@@ -39,7 +39,7 @@ jupyter notebook \
 9. Look for output that looks like:
 ```
 Or copy and paste one of these URLs:
-        http://localhost:8888/?token=73c6114f66c8df781049de84addd97b1455bb9f6d6bc2d04
+        http://localhost:8888/?token=<TOKEN_ID>
 ```
 10. Copy the URL.
 11. Open a New Notebook on [Google Colab](colab.research.google.com).
